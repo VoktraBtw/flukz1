@@ -3,6 +3,6 @@
 
 
 <div align="center">
-   <img src="cat2.gif" alt="cat waving" width="500"/>
+   <img src="cat2.gif" alt="cat waving" width="300"/>
    <h2>Hello! 👋</h2>
 </div>
