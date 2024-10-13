@@ -1,7 +1,8 @@
-![flowers](https://github.com/user-attachments/assets/3ea279af-0ca3-4206-9d75-a13af46fb544)
+![flowers](https://github.com/user-attachments/assets/706e7897-bfa9-47b5-9744-148af1cdb95e)
 
-![cat2](https://github.com/user-attachments/assets/a5b92127-247a-4668-a621-0168434e565e) 
 
- <p align="center">
-  Hello! 👋
-</p>
+
+<div align="center">
+   <img src="cat2.gif" alt="cat waving" width="100"/>
+   <h2>Hello! 👋</h2>
+</div>
