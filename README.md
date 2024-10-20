@@ -1,6 +1,6 @@
 <img align="center" src="./img/flowers.png">
 <p align="center">
-  <img src="./img/cat2.gif" alt="cat" width="150">
+  <img src="./img/cat2.gif" alt="cat" width="300">
 </p>
 <div align="center">
 
