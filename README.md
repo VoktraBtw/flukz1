@@ -11,7 +11,6 @@
 <p align="center">
 
 * 📆 24/10/20
-<img src="./img/cat.gif" align="right" width=200px></img>
 * ⚡ Programming
 * ❤️ Distros and WM 
    <details><summary>📺 Favourite WM's</summary>
