@@ -1,4 +1,4 @@
-<img align="center" src="./img/flowers.png">
+<img align="center" src="./img/banner.png">
 <p align="center">
   <img src="./img/cat2.gif" alt="cat" width="300">
 </p>
