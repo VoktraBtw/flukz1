@@ -1,11 +1,15 @@
-![flowers](https://github.com/user-attachments/assets/706e7897-bfa9-47b5-9744-148af1cdb95e)
-
-
-
+<img align="center" src="./flowers.png">
+<p align="center">
+  <img src="./img/cat2.gif" alt="cat" width="150">
+</p>
 <div align="center">
-   <img src="cat2.gif" alt="cat waving" width="300"/>
-   <h2>Hello! 👋</h2>
+
+# Hello! 👋
+
 </div>
+
+<p align="center">
+
 
 * ❤️ Distros and WM 
   * <details><summary>📺 Favourite WM</summary>
