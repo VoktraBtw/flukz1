@@ -26,3 +26,10 @@
       <li><a href="https://voidlinux.org/"> Void Linux </li>
     </ul>
     </details>
+
+
+<div align="center">
+
+```scala
+"i use arch btw"
+- someone, probably. idk
