@@ -10,6 +10,7 @@
 
 <p align="center">
 
+* 📆 24/10/20
 * ⚡ Programming
 * ❤️ Distros and WM 
    <details><summary>📺 Favourite WM's</summary>
