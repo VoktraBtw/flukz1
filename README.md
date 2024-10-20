@@ -10,9 +10,9 @@
 
 <p align="center">
 
-
+* ⚡ Programming
 * ❤️ Distros and WM 
-  * <details><summary>📺 Favourite WM's</summary>
+   <details><summary>📺 Favourite WM's</summary>
     <ul>
       <li><a href="https://github.com/baskerville/bspwm"> Bspwm</li>
       <li><a href="https://github.com/hyprwm/Hyprland"> Hyprland</li>
