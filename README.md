@@ -27,6 +27,10 @@
     </ul>
     </details>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,github,linux,arch,nixos,neovim&perline=8"/>
+</p>
+
 
 <div align="center">
 
