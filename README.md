@@ -12,14 +12,14 @@
 
 
 * ❤️ Distros and WM 
-  * <details><summary>📺 Favourite WM</summary>
+  * <details><summary>📺 Favourite WM's</summary>
     <ul>
       <li><a href="https://github.com/baskerville/bspwm"> Bspwm</li>
       <li><a href="https://github.com/hyprwm/Hyprland"> Hyprland</li>
       <li><a href="https://github.com/awesomeWM/awesome"> Awesomewm </li></a>
     </ul>
     </details>
-      <details><summary>🕸️ Favourite Distros</summary>
+      <details><summary>🕸️ Favourite Distro's</summary>
     <ul>
       <li><a href="https://archlinux.org/"> Arch Linux</li>
       <li><a href="https://nixos.org/"> NixOS </li>
