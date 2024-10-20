@@ -15,10 +15,10 @@
       <li><a href="https://github.com/awesomeWM/awesome"> Awesomewm </li></a>
     </ul>
     </details>
-     * <details><summary>🎮 Favourite Distros</summary>
+      <details><summary>🕸️ Favourite Distros</summary>
     <ul>
-      <li>  Arch Linux</li>
-      <li>  NixOS </li>
-      <li>  Void Linux </li>
+      <li><a href="https://archlinux.org/"> Arch Linux</li>
+      <li><a href="https://nixos.org/"> NixOS </li>
+      <li><a href="https://voidlinux.org/"> Void Linux </li>
     </ul>
     </details>
