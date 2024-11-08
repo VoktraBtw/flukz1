@@ -12,19 +12,16 @@
 
 * 📆 24/10/20
 * ⚡ Programming
-* ❤️ Distros and WM 
-   <details><summary>🪟 Favourite WM's</summary>
+* ❤️ Games and Anime 
+   <details><summary>🎮 Games</summary>
     <ul>
-      <li><a href="https://github.com/baskerville/bspwm"> Bspwm</li>
-      <li><a href="https://github.com/hyprwm/Hyprland"> Hyprland</li>
-      <li><a href="https://github.com/awesomeWM/awesome"> Awesomewm </li></a>
+      <li><a href="https://www.minecraft.net/en-us"> Minecraft</li>
     </ul>
     </details>
-      <details><summary>💥 Favourite Distro's</summary>
+      <details><summary>📺 Anime</summary>
     <ul>
-      <li><a href="https://archlinux.org/"> Arch Linux</li>
-      <li><a href="https://nixos.org/"> NixOS </li>
-      <li><a href="https://voidlinux.org/"> Void Linux </li>
+      <li><a href="https://anilist.co/anime/113415/Jujutsu-Kaisen/"> JuJutsu Kaisen</li>
+      <li><a href="https://anilist.co/anime/21087/One-Punch-Man/"> One Punch Man </li>
     </ul>
     </details>
 
