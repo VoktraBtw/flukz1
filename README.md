@@ -27,7 +27,7 @@
     </details>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,github,linux,arch,docker,neovim&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,github,nixos,linux,arch,docker,neovim&perline=8"/>
 </p>
 
 
