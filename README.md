@@ -22,6 +22,7 @@
     <ul>
       <li><a href="https://anilist.co/anime/113415/Jujutsu-Kaisen/"> JuJutsu Kaisen</li>
       <li><a href="https://anilist.co/anime/21087/One-Punch-Man/"> One Punch Man </li>
+      <li><a href="https://anilist.co/anime/7791/KON-Season-2/"> K-ON!!</li>
     </ul>
     </details>
 
