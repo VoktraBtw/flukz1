@@ -34,5 +34,5 @@
 <div align="center">
 
 ```scala
-"god damn it"
+"i use arch btw"
 - someone, probably. idk
